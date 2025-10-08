@@ -12,6 +12,16 @@ Di repo ini, aku juga mencatat **daftar hal-hal yang ingin (tapi belum sempat) k
 ### Regresi
 
 - Regresi Linear: [belajar-ml-regresi-linear](https://github.com/saazizau/belajar-ml-regresi-linear)
+- Regresi Logistik: [belajar-ml-logistic-regression](https://github.com/saazizau/belajar-ml-logistic-regression)
+
+### Decision Tree
+
+- Decision Tree: [belajar-ml-decision-tree](https://github.com/saazizau/belajar-ml-decision-tree)
+- Random Forest: [belajar-ml-random-forest](https://github.com/saazizau/belajar-ml-random-forest)
+
+### Naive Bayes
+
+- Naive Bayes: [belajar-ml-naive-bayes](https://github.com/saazizau/belajar-ml-naive-bayes)
 
 ---
 
